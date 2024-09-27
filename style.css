@@ -1,0 +1,13 @@
+*{
+    border: solid;
+}
+
+
+main{
+    width: 400px;
+}
+
+.foto_perfil{
+    height: 130px;
+    width: 130px;
+}
